@@ -1,0 +1,15 @@
+flask
+flask-smorest
+python-dotenv
+flask-sqlalchemy
+flask-jwt-extended
+flask-migrate
+werkzeug
+email-validator
+python-jose[cryptography]
+passlib
+flask-mail
+sendgrid==6.9.1
+mysqlclient
+pymysql
+cryptography
